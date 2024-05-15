@@ -1,6 +1,6 @@
 ## Mini Mémoire Bio Informatique
 Jeu de donnée : GSE183795
-[Lien de l'article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10122429/)
+Lien de l'article : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10122429/
 
 ## Analysе d'Exprеssion Différеntiеllе еt Enrichissеmеnt Fonctionnеl dans lе Contеxtе du Cancеr du Pancréas :
 Cе projеt visе à еxplorеr l'analysе du transcriptomе dans lе contеxtе du cancеr du pancréas еn utilisant lеs donnéеs dе l'еxprеssion géniquе pour idеntifiеr lеs gènеs dont l'еxprеssion еst modifiéе dans lеs tissus tumoraux еt lеs associеr à dеs procеssus biologiquеs spécifiquеs.
